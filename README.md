@@ -1,5 +1,17 @@
-# sistema-manutencao
-Sistema de manutenção de equipamentos
+# Sistema de manutenção de equipamentos
+
+---
+
+## Integrantes
+20200010 - ALIRES DOMENIQUE MOREIRA ROSA<br>
+20211613 - ARUNI SERENA VAN AMSTEL<br>
+20193861 - GABRIEL BISCAIA FERREIRA<br>
+20235952 - LEONARDO DOS SANTOS CORREIA<br>
+20221096 - LUCAS SOUZA DE OLIVEIRA<br>
+20235951 - LUCCA HAJ MUSSI CHELLA PARANHOS SILVA<br>
+
+---
+
 ## Requisitos
 
 1. **Banco de Dados**: PostgreSQL 16 ou 17.  
@@ -71,10 +83,10 @@ spring.mail.password=pcsz evzq jekf lhxy
 **Pronto!** Agora você pode acessar a aplicação no navegador e utilizar as funcionalidades disponíveis.
 
 ## Documentação
-[Manutenção de Equipamentos - 2024-2] https://docs.google.com/document/d/1nBBBqBJEexLQy3j4Em9vQJJ_PS-NXiElNrbWo_Fd7pw/edit?usp=sharing
+[Manutenção de Equipamentos - 2024-2](docs/Manutenção%20de%20Equipamentos%20-%202024-2.pdf)
 
 Exemplo - Diagrama de classes - Backend - CRUD Funcionário
-![dc_back_exemplo](https://github.com/user-attachments/assets/5333ceb3-3fb8-4a65-afbb-81b9befb207f)
+![Exemplo - Diagrama de classes - Backend - CRUD Funcionario](docs/dc_back_exemplo.png)
 
 Exemplo - Diagrama de classes - Frontend - CRUD Funcionário
-![dc_front_exemplo](https://github.com/user-attachments/assets/519be627-0704-437d-af35-423310fd9537)
+![Exemplo - Diagrama de classes - Backend - CRUD Funcionario](docs/dc_front_exemplo.png)
