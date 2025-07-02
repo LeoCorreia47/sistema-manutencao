@@ -71,10 +71,10 @@ spring.mail.password=pcsz evzq jekf lhxy
 **Pronto!** Agora você pode acessar a aplicação no navegador e utilizar as funcionalidades disponíveis.
 
 ## Documentação
-[Manutenção de Equipamentos - 2024-2] (https://github.com/zerouacuca/web2development/raw/main/docs/dc_back_exemplo.png)
+[Manutenção de Equipamentos - 2024-2] https://docs.google.com/document/d/1nBBBqBJEexLQy3j4Em9vQJJ_PS-NXiElNrbWo_Fd7pw/edit?usp=sharing
 
 Exemplo - Diagrama de classes - Backend - CRUD Funcionário
-![Exemplo - Diagrama de classes - Backend - CRUD Funcionario](docs/dc_back_exemplo.png)
+![dc_back_exemplo](https://github.com/user-attachments/assets/5333ceb3-3fb8-4a65-afbb-81b9befb207f)
 
 Exemplo - Diagrama de classes - Frontend - CRUD Funcionário
-![Exemplo - Diagrama de classes - Backend - CRUD Funcionario](docs/dc_front_exemplo.png)
+![dc_front_exemplo](https://github.com/user-attachments/assets/519be627-0704-437d-af35-423310fd9537)
